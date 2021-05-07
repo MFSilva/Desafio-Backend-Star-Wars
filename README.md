@@ -5,5 +5,5 @@ Participante: Matheus Silva
 
 ## Tecnologias utilizadas:
 
-Java com Spring Boot
-MongoDB
+* Java com Spring Boot
+* MongoDB
